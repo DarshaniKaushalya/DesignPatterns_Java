@@ -1,12 +1,12 @@
-# DesignPatterns_Java
+# DesignPatterns_Java 
 
 Design Patterns divided into 4 types.
 1) Creational 
 2) Structural 
 3) Behavioral
 4) JEE
-
-1) Creational Design Pattern
+ <br>  <br> 
+A) Creational Design Pattern
 
 1.1)Factory Pattern <br> 
 1.2)Abstract Factory Pattern <br> 
