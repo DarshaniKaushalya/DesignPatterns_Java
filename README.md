@@ -8,9 +8,9 @@ Design Patterns divided into 4 types.
 
 01) Creational Design Pattern
 
-1.1)Factory Pattern 
-1.2)Abstract Factory Pattern
-1.3)Singleton Pattern
-1.4)Prototype Pattern
-1.5)Builder Pattern
-1.6)Object Pool Pattern
+1.1)Factory Pattern <br> 
+1.2)Abstract Factory Pattern <br> 
+1.3)Singleton Pattern <br> 
+1.4)Prototype Pattern <br> 
+1.5)Builder Pattern <br> 
+1.6)Object Pool Pattern <br> 
