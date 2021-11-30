@@ -6,7 +6,7 @@ Design Patterns divided into 4 types.
 3) Behavioral
 4) JEE
 
-01) Creational Design Pattern
+1) Creational Design Pattern
 
 1.1)Factory Pattern <br> 
 1.2)Abstract Factory Pattern <br> 
